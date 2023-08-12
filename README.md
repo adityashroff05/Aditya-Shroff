@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya shroff</h1>
 <h3 align="center">A CSE student from MUJ.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/adityashroff05/Aditya-Shroff/assets/142039211/a0e023a0-962a-4d4b-90f7-2fae1bfa91f4)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/adityashroff05/Aditya-Shroff/assets/142039211/53919d30-d894-4514-a22c-d75c9f1664dd.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityashroff05&label=Profile%20views&color=0e75b6&style=flat" alt="adityashroff05" /> </p>
 
